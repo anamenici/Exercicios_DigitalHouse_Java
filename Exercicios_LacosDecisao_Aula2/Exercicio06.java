@@ -44,6 +44,7 @@ public class Exercicio06 {
            Juvenil A = 12 a 13 anos
            Juvenil B = 14 a 17 anos
            Adultos = Maiores de 18 anos
+           
 		 */
 
 	}
