@@ -23,8 +23,8 @@ public class Exercicio02 {
 			{
 				impares++;
 			}
-			
 		}
+		
 		System.out.printf("Você digitou %d números pares e %d números ímpares.", pares, impares);
 		
 		/*
